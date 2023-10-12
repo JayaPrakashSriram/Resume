@@ -94,10 +94,14 @@ body{
 }
 
 .title1{
-    color: #fff;
+    color: #03a9f4;
     font-weight: 600;
     /* letter-spacing: 1px;
     margin-bottom: 20px; */
+}
+
+.content1{
+    color: grey;
 }
 
 .contactInfo ul{
